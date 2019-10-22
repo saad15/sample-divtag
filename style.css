@@ -1,3 +1,7 @@
 body {
     background-color: darkgrey;
 }
+.jumbotron{
+    background-color: darkolivegreen;
+    color: #FFFFFF;
+}
